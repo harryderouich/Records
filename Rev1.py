@@ -12,5 +12,10 @@ new_record = StudentMarks
 new_record.StudentName = input("Name: ")
 new_record.TestMark = input("Mark: ")
 
+
+
+
+
 print('{0}: {1} Marks'.format(new_record.StudentName, new_record.TestMark))
-        
+
+
